@@ -1,0 +1,32 @@
+{
+  "name": "public-ski-in-shop-vanilla",
+  "version": "1.0.0",
+  "description": "[![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=informational)](/.github/CONTRIBUTING.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-Swingley/Public-Ski-In-Shop-Vanilla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-Swingley/Public-Ski-In-Shop-Vanilla/issues"
+  },
+  "homepage": "https://github.com/David-Swingley/Public-Ski-In-Shop-Vanilla#readme",
+  "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/forms": "^0.5.3",
+    "@tailwindcss/typography": "^0.5.9",
+    "autoprefixer": "^10.4.14",
+    "laravel-mix": "^6.0.49",
+    "postcss": "^8.4.21",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.59.3",
+    "sass-loader": "^12.1.0",
+    "tailwindcss": "^3.2.7"
+  }
+}
