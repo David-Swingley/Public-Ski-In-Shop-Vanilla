@@ -2,12 +2,13 @@
 module.exports = {
     prefix: "x",
     content: [
+        './config/*.json',
         "./layout/*.liquid",
         "./templates/*.{liquid,json}",
         "./templates/customers/*.{liquid,json}",
         "./sections/*.{liquid,json}",
         "./snippets/*.liquid",
-        "./assets/*.{css.js}",
+        "./assets/*.{css,js}",
     ],
     theme: {
         screens: {
